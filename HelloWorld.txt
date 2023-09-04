@@ -1,0 +1,7 @@
+public Class Helo
+{
+Void main(String args[])
+{
+Console.WriteLine("HelloWorld");
+}
+}
